@@ -1,4 +1,4 @@
-🔥 # Dashboard de Vendas 📈
+ # 🔥 Dashboard de Vendas 📈
 - Tratamento da Base
 - Segmentação de Dados
 - Listas
@@ -13,4 +13,4 @@
 - Mapas
 - Títulos Dinâmicos
 
-- 🎨 of learning
+- # 🎨 of learning
